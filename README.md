@@ -1,2 +1,2 @@
 # CC-FEB-PYTHON
- The above contains contains two projects allocated by CodeClause in the given Internship for February.
+ The above projects were completed by me in February during my Internship with CodeClause as a Python Developer.
